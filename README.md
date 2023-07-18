@@ -12,7 +12,33 @@ In this project we will create a token in Solidity. The contract provides the tw
 ### Executing program
 
 * To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
-* Step-by-step bullets
+```javascript
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+
+contract Mytoken {
+
+    string public tokenName = "Meta";
+    string public tokenAbbrv = "MTA";
+    uint public totalSupply = 0;
+    
+    mapping (address => uint) public balances;
+
+    function mint(address _address, uint _value) public {
+        totalSupply += _value;
+        balances[_address] += _value;
+    }
+
+     function burn (address _address, uint _value) public {
+   if (balances[_address] >= _value)
+     totalSupply -= _value;
+     balances[_address] -= _value;
+}
+
+} 
+
+
+```
 
 ## Authors
 
