@@ -18,8 +18,10 @@ In this project we will create a token in Solidity. We will encounter in this pr
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Jan Mel Semaña
+
+https://twitter.com/Jan_Mel_Sem
+
 
 
 ## License
