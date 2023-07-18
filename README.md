@@ -7,24 +7,12 @@ In this project we will create a token in Solidity. We will encounter in this pr
 ## Getting Started
 
 ### Installing
-
-* You can download or install the IDE by using this link
-* https://remix-project.org/
+* You can install the Remix Desktop IDE by using this link : https://remix-project.org/
 
 ### Executing program
 
 * To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 * Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
