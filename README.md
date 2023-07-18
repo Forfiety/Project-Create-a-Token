@@ -2,14 +2,14 @@
 This Solidity project called "Create A Token" 
 
 ## Description
-In this project we will create a token in Solidity. We will encounter in this project 2 main function mint and burn. This project provides the function of minting that takes two parameters an address and a value and burn function it will also take address and value of mint funtion and deduct the value from total supply and address, and balances of different addresses using a mapping.
+In this project we will create a token in Solidity. We will encounter in this project 2 main function mint and burn. This project provides the function of minting that takes two parameters an address and a value and burn function enable the burning tokens by a particular address and decreasing the value from total supply and address.It maintains the balances of different addresses using a mapping.
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* You can download or install the IDE by using this link
+* https://remix-project.org/
 
 ### Executing program
 
