@@ -41,9 +41,10 @@ contract Mytoken {
 
 ```
  Once your Remix IDE or Remix Website IDE you can copy and paste this code.
- To compile this code you can click the compiler and set it to "0.8.18" and click the "Compile.myToken.sol"
- And then below it is the deploy and run transaction where you deploy the contract by clicking the button to execute. 
- Finally, 
+ To compile this code you can click the compiler and set it to "0.8.18" and click the "Compile.myToken.sol".
+And then below it is the deploy and run transaction where you deploy the contract by clicking the button to execute. 
+
+Finally, click the address in the account by clicking the clipboard, and paste it in the mint _address and set the value to 1000 tokens and check the totalSupply and paste the same address in the clipboard to balances. Then burn function when we will burn some tokens by 500 and check the totalSupply if it's been reduce by 500.
 
 ## Authors
 
