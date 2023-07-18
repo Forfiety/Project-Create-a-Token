@@ -12,6 +12,8 @@ In this project we will create a token in Solidity. The contract provides the tw
 ### Executing program
 
 * To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+  
+You can run this code by using Remix IDE that is provided in the link. To create a file you can click the "New File" save the file ".sol".
 ```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
@@ -37,8 +39,11 @@ contract Mytoken {
 
 } 
 
-
 ```
+ Once your Remix IDE or Remix Website IDE you can copy and paste this code.
+ To compile this code you can click the compiler and set it to "0.8.18" and click the "Compile.myToken.sol"
+ And then below it is the deploy and run transaction where you deploy the contract by clicking the button to execute. 
+ Finally, 
 
 ## Authors
 
