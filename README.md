@@ -1,7 +1,6 @@
-# Create A Token 
+# Project Title
 
-Simple overview of use/purpose.
-
+In this project we will create a token in Solidity. We will encounter in this project 2 main function mint and burn. This project provides the function of minting and burn, and balances of different addresses using a mapping.
 ## Description
 
 An in-depth paragraph about your project and overview of use.
