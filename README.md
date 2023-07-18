@@ -1,6 +1,6 @@
-# Project-Create-a-Token
+# Project Title
 
-This Solidity program 
+Simple overview of use/purpose.
 
 ## Description
 
@@ -15,7 +15,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Executing program
 
-* How to run the program
+* To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 * Step-by-step bullets
 ```
 code blocks for commands
@@ -32,11 +32,10 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Jan Mel Semaña 
-
-https://twitter.com/Jan_Mel_Sem
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
