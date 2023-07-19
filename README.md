@@ -1,8 +1,8 @@
 # Project Title
-This Solidity project called "Create A Token" 
+This Solidity project called "Create A Token"  its objective is to mint new tokens and burning new tokens. It keeps tracks using mapping different addresess. 
 
 ## Description
-In this project we will create a token in Solidity. The contract provides the two functionality of two main function mint and burn. This project provides the function of minting that takes two parameters an address and a value and burn function enable the burning tokens by a particular address and decreasing the value from total supply and address. It maintains the balances of different addresses using a mapping.
+In this project we will create a token in Solidity. The contract provides the functionality of two main function mint and burn. This project provides of minting function that takes two parameters an address and a value and burn function enable the burning tokens by a particular address and decreasing the value from total supply and address. It maintains the balances of different addresses using a mapping.
 
 ## Getting Started
 
